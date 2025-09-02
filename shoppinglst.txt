@@ -2,3 +2,4 @@ apple
 oranges
 bananas
 cherries
+pineapple
